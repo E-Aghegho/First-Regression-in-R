@@ -59,7 +59,7 @@ Prob       -4855.00    2272.00  -2.137  0.0406 *
 
 ## Model Assumptions & Diagnostics
 ### **Homoscedasticity Check**
-To ensure variance in residuals remains constant:
+To ensure the variance in residuals remains constant:
 ```r
 library(lmtest)
 bptest(lm_uscrime)
