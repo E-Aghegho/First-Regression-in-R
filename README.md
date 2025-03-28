@@ -1,6 +1,6 @@
 # Crime Rate Prediction Using Regression
 
-## Overview
+## An Overview
 This project explores the application of multiple regression models to predict crime rates in U.S. cities using data from [US Crime Data](http://www.statsci.org/data/general/uscrime.html). The dataset consists of 47 observations with 15 predictors and the response variable being the crime rate.
 
 ---
