@@ -134,3 +134,5 @@ summary(lm_uscrime_new)
 - [US Crime Data](http://www.statsci.org/data/general/uscrime.html)
 - [Breusch-Pagan Test Explanation](https://boostedml.com/2019/03/linear-regression-plots-scale-location-plot.html)
 - [Cross-Validation in R](https://stats.stackexchange.com/questions/58141/interpreting-plot-lm)
+
+
