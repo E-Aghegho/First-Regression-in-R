@@ -5,7 +5,7 @@ This project explores the application of multiple regression models to predict c
 
 ---
 
-## Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis - (EDA)
 Before developing the regression model, an initial review of the data was conducted to identify significant predictors.
 
 ### Key Predictors Considered:
